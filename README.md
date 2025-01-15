@@ -1,2 +1,2 @@
 # kalp.py
-Visual studio code ile python yazılım dili ile yazılmıştır
+Visual studio code programı ve python yazılım dili ile yazılmıştır.
